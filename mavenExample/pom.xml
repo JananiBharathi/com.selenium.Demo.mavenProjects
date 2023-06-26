@@ -3,8 +3,7 @@
   <groupId>com.automationOnline.maven</groupId>
   <artifactId>mavenExample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
-  
+   
 <build>
   <plugins>
    <plugin>
@@ -87,8 +86,6 @@
     <version>5.10.0-M1</version>
     <scope>test</scope>
 </dependency>
-
-
 
  </dependencies>
  
